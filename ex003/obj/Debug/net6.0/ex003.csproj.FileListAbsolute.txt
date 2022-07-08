@@ -1,0 +1,15 @@
+C:\CODE\git\education\education\ex003\bin\Debug\net6.0\ex003.exe
+C:\CODE\git\education\education\ex003\bin\Debug\net6.0\ex003.deps.json
+C:\CODE\git\education\education\ex003\bin\Debug\net6.0\ex003.runtimeconfig.json
+C:\CODE\git\education\education\ex003\bin\Debug\net6.0\ex003.dll
+C:\CODE\git\education\education\ex003\bin\Debug\net6.0\ex003.pdb
+C:\CODE\git\education\education\ex003\obj\Debug\net6.0\ex003.csproj.AssemblyReference.cache
+C:\CODE\git\education\education\ex003\obj\Debug\net6.0\ex003.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\git\education\education\ex003\obj\Debug\net6.0\ex003.AssemblyInfoInputs.cache
+C:\CODE\git\education\education\ex003\obj\Debug\net6.0\ex003.AssemblyInfo.cs
+C:\CODE\git\education\education\ex003\obj\Debug\net6.0\ex003.csproj.CoreCompileInputs.cache
+C:\CODE\git\education\education\ex003\obj\Debug\net6.0\ex003.dll
+C:\CODE\git\education\education\ex003\obj\Debug\net6.0\refint\ex003.dll
+C:\CODE\git\education\education\ex003\obj\Debug\net6.0\ex003.pdb
+C:\CODE\git\education\education\ex003\obj\Debug\net6.0\ex003.genruntimeconfig.cache
+C:\CODE\git\education\education\ex003\obj\Debug\net6.0\ref\ex003.dll

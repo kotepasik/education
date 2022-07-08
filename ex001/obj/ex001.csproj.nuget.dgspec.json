@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\edu\\example\\ex001\\ex001.csproj": {}
+    "C:\\CODE\\git\\education\\education\\ex001\\ex001.csproj": {}
   },
   "projects": {
-    "D:\\edu\\example\\ex001\\ex001.csproj": {
+    "C:\\CODE\\git\\education\\education\\ex001\\ex001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\edu\\example\\ex001\\ex001.csproj",
+        "projectUniqueName": "C:\\CODE\\git\\education\\education\\ex001\\ex001.csproj",
         "projectName": "ex001",
-        "projectPath": "D:\\edu\\example\\ex001\\ex001.csproj",
-        "packagesPath": "C:\\Users\\kotep\\.nuget\\packages\\",
-        "outputPath": "D:\\edu\\example\\ex001\\obj\\",
+        "projectPath": "C:\\CODE\\git\\education\\education\\ex001\\ex001.csproj",
+        "packagesPath": "C:\\Users\\kotepasik\\.nuget\\packages\\",
+        "outputPath": "C:\\CODE\\git\\education\\education\\ex001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kotep\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kotepasik\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
